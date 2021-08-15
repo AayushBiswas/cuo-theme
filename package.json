@@ -1,0 +1,21 @@
+{
+    "name": "cuo-theme",
+    "displayName": "cuo-theme",
+    "description": "CUO Theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.59.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "CUO Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/CUO Theme-color-theme.json"
+            }
+        ]
+    }
+}
